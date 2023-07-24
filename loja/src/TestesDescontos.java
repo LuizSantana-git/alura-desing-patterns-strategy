@@ -1,8 +1,6 @@
 import java.math.BigDecimal;
 
 import desconto.CalculadoraDeDescontos;
-import imposto.ICMS;
-import imposto.ISS;
 import loja.Orcamento;
 
 public class TestesDescontos {
