@@ -1,7 +1,7 @@
 import java.math.BigDecimal;
 
 import desconto.CalculadoraDeDescontos;
-import loja.Orcamento;
+import orcamento.Orcamento;
 
 public class TestesDescontos {
 

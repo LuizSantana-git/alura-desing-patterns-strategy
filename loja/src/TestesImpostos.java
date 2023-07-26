@@ -3,7 +3,7 @@ import java.math.BigDecimal;
 import imposto.CalculadoraDeImpostos;
 import imposto.ICMS;
 import imposto.ISS;
-import loja.Orcamento;
+import orcamento.Orcamento;
 
 public class TestesImpostos {
 

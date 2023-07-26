@@ -2,7 +2,7 @@ package desconto;
 
 import java.math.BigDecimal;
 
-import loja.Orcamento;
+import orcamento.Orcamento;
 
 public class DescontoParaOrcamentoComMaisDeCincoItens extends Desconto {
 
